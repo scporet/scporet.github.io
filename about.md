@@ -20,9 +20,4 @@ layout: default
 <img src="/assets/images/mapped.jpg" alt="my travel pin map" />
 <div class="caption">Push Pin Map of our Travels.</div>
 
-<br>
-<p>After all those years of moving we accumulated quite the inventory of pictures and memories.  I guess I could take advantage of some social app to post pictures and tag friends and family to view, but I'm not a big fan of social media sites.  So, "why put all that work into building a blog?" you may ask?  Well, there are some new static web site technologies out there that I would like to learn, and there's no better was to learn than through doing.  And this blog is a result.  Enjoy!</p>
-<br>
-All that technical stuff that I learned in the service helped me ease into a career in the IT field, where I spend a lot of time staring at computer screens trying toFollowing my time in the servicI had the good fortune of being in a highly technical fieldate to fortunate Besides being a total tech geek, I have enjoyed in addition to current travel.  being Thanks for dropping by.  Thanks for visiting!  You've reached the **Cup of Joe** blog.  What you will find here is a legend of visits to coffee shops, good coffee stories, and a history of coffee.<p>
 
-That's a trait I developed over the years-which I attribute to my military time.  Besides, sailors are know for being the biggest storytellers!  being Thanks for dropping by.  Thanks for visiting!  You've reached the **Cup of Joe** blog.  What you will find here is a legend of visits to coffee shops, good coffee stories, and a history of coffee.<p>
