@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>{{ page.title }} | {{ site.title }}</title>
+        <link rel="stylesheet" href="/assets/css/styles.css">
+    </head>
+<body>
+
+<div class="container">
+
+  <header class="title-area">
+    <img class="top_img" src="/assets/images/logo.png">
+    <p class="sub-title">Enjoying travel experiences... without riding a camel</p>
+  </header>
+
+  <title class="banner">
+        <div class="">
+            <p class="sub-title"> {{ page.description }} </p>
+        </div> 
+  </title>
+  
+  <nav class="nav">
+      {% include navigation.html %}
+    </nav>
+   
+  <main>
+    {{ content }}
+  </main>
+
+
+  <footer class="foot">
+      <p>This blog built with <a href="http://jekyllrb.com">Jekyll</a></p>
+  </footer>
+</div>
+
+</body>
+</html>
