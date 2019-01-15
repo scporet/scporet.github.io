@@ -14,9 +14,11 @@ description: Our visit to the Florence American Cemetery was a pleasant surprise
 <blockquote>After the liberation of Rome on June 5, 1944, the U.S. Fifth Army and British Eighth Army, supported by the Mediterranean Allied Air Forces (MAAF), pushed northward toward the Gothic line.  That was a major German defense taking advantage of the Appennies that separated central Italy fro mthe Po Valley.
 </blockquote>
 
-<p><img id="l_small" src="/assets/images/IMG_0782.jpg" alt="Standing the Watch">This cemetery is one of many centeries and memorials managed by the <a href="https://www.ambc.gov">American Memorials and Battfield Commission</a>.  </p>
-
- <a href="#top">Back to top</a>
- 
+<p><img id="l_small" src="/assets/images/IMG_0782.jpg" alt="Standing the Watch">This cemetery is one of many centeries and memorials managed by the <a href="https://www.ambc.gov">American Memorials and Battfield Commission</a> whose responsibility it is to operate and maintain American cemeteries in foreign countries.  </p>
+<br>
+<p>Since we were on a tight schedule, we were not afforded enough time to walk the entire gravesite.  I really wanted to hoof it up to the memorial building to view the atrium and the military operations map, along with wall engravings and lists of the missing; which can be viewed <a href="https://www.abmc.gov/sites/default/files/publications/Florence.pdf">here</a>.  We kept close to the entrance, but I was able to catch some nice photo's of the view from the first plot and surrounding area.  The statue to the left is one of two 361st Regimental statues keeping watch over the gravesite.  It is located overlooking plot A where I captured the photo above - facing from the East.  I would think which was the closest</p>
+<br>
+<a href="#top">Back to top</a>
+ <br>
 </body>
 </html>
