@@ -204,6 +204,10 @@ a:hover {
   text-decoration: underline;
 }
 
+a {
+  target-name: new;
+}
+
 .button {
   background-color: #4CAF50; 
   border: 2px solid rgb(0, 0, 0);
@@ -221,6 +225,29 @@ a:hover {
 
 .button:hover {
   background-color: white;
+  color: black;
+  border: 2px solid rgb(2, 48, 3);
+}
+
+/*Floating Back-To-Top Button*/
+.myBtn {
+  bottom: 10px;
+  text-align: center;
+  padding: 3px 8px;
+  max-width: 30px;
+  width: 100%;
+  font-size: 12px;
+  font-weight: bold;
+  text-transform: capitalize;
+  text-decoration: none;
+  border: 2px solid rgb(2, 48, 3);
+  background-color: #915609;
+  border-radius: 4px;
+}
+
+/*On Hover Color Change*/
+.myBtn:hover {
+  background-color: #9eaa87;
   color: black;
   border: 2px solid rgb(2, 48, 3);
 }
