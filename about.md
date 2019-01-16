@@ -7,7 +7,7 @@ layout: default
 
 <h1> {{ page.title}} </h1>
 
-<img id="stamp" src="/assets/images/almostnomads.png" alt="Your Hosts" /> Hello, and welcome! I'm not going to write a long, drawn-out bio here.  Besides, if you ask my wife, she would agree that I would tend to run on with a long description of what this blog is about if given the time.  The good thing about creating this blog, is to provide a place for family and friends to see what we're up to - since I don't prescribe to one the the bloated social media sites.  Besides, you all know I'm a techie who likes to dabble in new technologies.  I think I found a great <a href="http://jekyllrb.com" target="_blank">product</a> to help me get a blog up and running, with minmal effort....for a guy who used to build dynamic web sites. <br>
+<img id="stamp" src="/assets/images/almostnomads.png" alt="Your Hosts" /> Hello, and welcome! I'm not going to write a long, drawn-out bio here.  Besides, if you ask my wife, she would agree that I would tend to run on with a long description of what this blog is about if given the time.  The good thing about creating this blog, is to provide a place for family and friends to see what we're up to - since I don't prescribe to one of the bloated social media sites.  Besides, you all know I'm a techie who likes to dabble in new technologies.  I think I found a great <a href="http://jekyllrb.com" target="_blank">product</a> to help me get a blog up and running, with minmal effort....for a guy who used to build dynamic web sites. <br>
 <br>
 
 <h2> Why Nomads?</h2>
