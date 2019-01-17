@@ -215,7 +215,8 @@ a {
 p {
   grid-column: 2 / 3;
   margin: 2px;
-  line-height: 1.3em; }
+  line-height: 1.3em;
+  padding-bottom: 8px; }
 
 .caption {
   font-family: "Old Standard TT", serif;
@@ -229,13 +230,13 @@ p {
 #r_small {
   width: 40%;
   float: right;
-  margin: 20px;
+  margin: 15px;
   border: 1px solid black; }
 
 #l_small {
   width: 40%;
   float: left;
-  margin: 20px;
+  margin: 15px;
   border: 1px solid black; }
 
 #stamp {

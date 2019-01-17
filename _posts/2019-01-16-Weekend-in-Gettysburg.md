@@ -1,0 +1,37 @@
+---
+layout: default
+description: A recommended destination if you happen to be within driving distance!
+---
+
+<html>
+<body>
+<h1> Weekend Getaway to Gettysburg</h1>
+
+<p>When I created this blog, I didn't want to limit the entries to extravagant vacation stories-like the previous entry from our trip to Italy.  I's like to classify a travel experience as one that requires stuffing underwear and socks in a overnight bag along with a shower kit (at least!).  </p>
+
+<p>Back to this post... </p>
+
+<p><img id="l_small" src="/assets/images/getty_1.jpg" alt="Where we Wined and Dined">If you're looking for a great weekend getaway (and within driving distance), I highly recommend a trip to Gettysburg, PA.  When we took this trip we lived close enough without having to contend with major logistical issues, other than securing a dog sitter.  Heading up through rural Maryland into Pennsylvania we enjoyed a scenic view of rolling hills as we drove through the countryside.  There were plenty of quaint towns along thw way, some with antique centers and walking towns decorated with boutiques, shops and restaurants. </p>
+
+<p>Yes, my wife found more 'stuff' to decorate the home.</p>
+
+<p>I posted the sign for the <a href="http://thefairfieldinn.com/" target="_blank">historic Fairfield Inn</a> here, where we enjoyed the best meal that weekend.  It came highly recommended by the hotel staff - and they were 'spot on!'  The website brags about it being one of the oldest Inn's in America but I'm not sure about that headline, so I made an inquiry (thanks, Google!) and came up with <a href="https://www.thedailymeal.com/america-s-14-oldest-taverns-inns-slideshow" target="_blank">this list</a> that was also mirrored at several other sites, too.</p>
+
+<h3>A Haunted Covered Bridge</h3>
+
+<p><img id="r_small" src="/assets/images/getty_2.jpg" alt="Sauchs Bridge">One of my favorie places visited was Sachs Covered Bridge (originally, Sauchs).  This bridge was originally build in 1854, and restored in 1996.  It was crossed by both Union and Confederate troops diring the Civil War.</p>
+
+<p>I wasn't aware until our visit that this bridge is a frequent destination of ghost hunters, too.  My wife and I met a gentleman from West Virginia who was camped out there the night before with his ghost hunting troop. He confirmed that there is quite a bit of activity not only on the bridge, but in the fields Northeast of the bridge on the path toward the battlefield.</p>
+
+<p>I'm an admirer of covered bridges, and this was one of the finest I've seen; and it's restricted now to foot traffic only.  It is listed in the National Register of Historic Places and is worth the trip.  You can read more information about this bridge and others at the <a href="http://bridgehunter.com/pa/adams/sachs-covered/">Bridgehunter</a> website.</p>
+
+<h3>Ever hear a Horse Sigh?</h3>
+
+<p><img id="l_small" src="/assets/images/getty_3.jpg" alt="Horseback ride through the battlefield"> The highlight of our trip was the battlefield horseback ride at the <a href="https://nationalridingstables.org/" target="_blank">National Riding Stables Horse Rescue</a>.  Truly, I never claimed to be a bucking bronco.  And for a good reason.  First, I felt pretty bad for the old horse that hauled my grand frame over 2 miles.  He definitely deserved a couple extra carrots that day.  Second, hats off to those that can ride at speeds I would only dream of.  I think my center of gravity was shifting with each step the horse made.  So I was happy we made nice, small strides through the battlefield.  Even though I had my camera with me, it was tough to focus and keep my center of gravity fixed on the saddle.  Poor trigger.</p>
+
+<p> </p>
+
+<p><a class="myBtn" href="#top">TOP</a></p>
+
+</body>
+</html>
