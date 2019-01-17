@@ -7,7 +7,7 @@ description: A recommended destination if you happen to be within driving distan
 <body>
 <h1> Weekend Getaway to Gettysburg</h1>
 
-<p>When I created this blog, I didn't want to limit the entries to extravagant vacation stories-like the previous entry from our trip to Italy.  I's like to classify a travel experience as one that requires stuffing underwear and socks in a overnight bag along with a shower kit (at least!).  </p>
+<p>When I created this blog, I didn't want to limit the entries to extravagant vacation stories-like the previous entry from our trip to Italy.  At a minimum, I classify a travel experience as one that requires stuffing underwear and socks in a overnight bag along with a shower kit.  </p>
 
 <p>Back to this post... </p>
 
