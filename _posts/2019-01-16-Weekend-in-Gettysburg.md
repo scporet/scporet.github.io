@@ -29,8 +29,6 @@ description: A recommended destination if you happen to be within driving distan
 
 <p><img id="l_small" src="/assets/images/getty_3.jpg" alt="Horseback ride through the battlefield"> The highlight of our trip was the battlefield horseback ride at the <a href="https://nationalridingstables.org/" target="_blank">National Riding Stables Horse Rescue</a>.  Truly, I never claimed to be a bucking bronco.  And for a good reason.  First, I felt pretty bad for the old horse that hauled my grand frame over 2 miles.  He definitely deserved a couple extra carrots that day.  Second, hats off to those that can ride at speeds I would only dream of.  I think my center of gravity was shifting with each step the horse made.  So I was happy we made nice, small strides through the battlefield.  Even though I had my camera with me, it was tough to focus and keep my center of gravity fixed on the saddle.  One of the staff there was kind enough to take a picture of us berfore we headed toward the battlefield. Poor trigger.</p>
 
-<p> </p>
-
 <p><a class="myBtn" href="#top">TOP</a></p>
 
 </body>

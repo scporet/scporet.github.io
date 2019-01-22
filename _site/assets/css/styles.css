@@ -24,6 +24,34 @@ h2 {
   font-weight: bold;
   font-style: italic; }
 
+.mailcontainer {
+  border: 2px solid black;
+  margin: 10px;
+  background-color: #8298d3;
+  width: 90%;
+  padding: 20px;
+  border-radius: 12px;
+  padding: 5px 12px;
+  align-self: auto; }
+
+input {
+  height: 3em;
+  width: 15em;
+  font-family: "Fenix", serif;
+  font-size: 14px;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 5px; }
+
+textarea {
+  height: 5em;
+  width: 15em;
+  font-family: "Fenix", serif;
+  font-size: 14px;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 5px; }
+
 .container {
   display: grid;
   grid-template-areas: "header header header" "nav content content" "footer footer footer";
@@ -37,7 +65,8 @@ h2 {
   grid-template-columns: 1fr 1fr 1fr;
   grid-gap: 10px;
   padding: 10px;
-  line-height: 1.4em; }
+  line-height: 1.4em;
+  min-height: 100vh; }
 
 nav {
   height: 100%;

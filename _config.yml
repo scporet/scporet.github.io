@@ -8,6 +8,8 @@ sass:
 
 baseurl:  "\"
 
+email: geren216@gmail.com
+
 exclude:
   - Gemfile
   - Gemfile.lock
