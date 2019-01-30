@@ -22,9 +22,7 @@ description: We finally found a great undergound getaway!
 
 <h3>Car and Carriage Museum</h3>
 
-<p>There are a couple of additional attractions to see once the cavern tour is completed.  There's a car and carriage museum that has some nice early-model automobiles on display-both domestic and foreign models.  I think the earliest model the have is an 1897 Mercedes.  I liked the Stanley Steamer and early Cadillacs.  Some of my favorite are shown below.  I should also mention the early toy and train collection display there, too.  I didn't spend much time there since I spent most of the time admiring the cars. 
-
-</p>
+<p>There are a couple of additional attractions to see once the cavern tour is completed.  There's a car and carriage museum that has some nice early-model automobiles on display-both domestic and foreign models.  I think the earliest model the have is an 1897 Mercedes.  I liked the Stanley Steamer and early Cadillacs.  Some of my favorite are shown below.  I should also mention the early toy and train collection display there, too.  I didn't spend much time there since I spent most of the time admiring the cars.</p>
 
 <p>
 <section class="card-container">
