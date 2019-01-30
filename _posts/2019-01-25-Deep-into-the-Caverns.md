@@ -30,8 +30,8 @@ description: We finally found a great undergound getaway!
 <p><img id="l_small" src="/assets/images/cavern_5.jpg" alt="Horseback ride through the battlefield">  <a href="https://nationalridingstables.org/" target="_blank"></p>
 
 
-<p><img src="/assets/images/cavern_6.jpg" alt="Mirror image of stelagtites">
-<div class="caption">Standing Water Creates a Stalactites Mirror Reflection</div>
+<p><img src="/assets/images/cavern_6.jpg" alt="South Court Inn Post">
+
 </p>
 
 <p><a class="myBtn" href="#top">TOP</a></p>
