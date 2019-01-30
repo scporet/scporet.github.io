@@ -4,17 +4,34 @@ description: We finally found a great undergound getaway!
 ---
 <html>
 <body>
-<h1>Trip to Luray Caverns and Surrounding Area</h1>
+<h1>Appalacian Trail Trip to Luray Caverns</h1>
 
-<p>In my travels up and down the Interstate routes over the years, I must of passed cavern row on I81 a dozen times driving from the FL Gulf Coast to the Northeast to visit family.  I always remembered passing the sign for <a href="https://luraycaverns.com/" target="_blank">Luray Caverns</a>.  In my haste of praying to the church of blessed acceleration (love that Blues Brothers pun!), I'd never seem to find the time to make a stop there.  It wasn't until a few years later, living in the Chesapeake area, when we lived close enough to plan a long weekend journey.</p>
+<p>In my travels up and down the Interstate routes over the years, I must of passed cavern row on I81 a dozen times driving from the FL Gulf Coast to the Northeast to visit family.  I always remembered passing the sign for <a href="https://luraycaverns.com/" target="_blank">Luray Caverns</a>.  In my haste of praying to the church of blessed acceleration (love that Blues Brothers pun!), I'd never seem to find the time to make a stop there.  It wasn't until a few years later, living in the Chesapeake area, when we lived close enough to plan a long weekend journey.  </p>
+
+<h3>Harpers Ferry</h3>
+
+Our route took down Route 340, from Maryland to Luray, with a stop at Harpers Ferry.</p>
+
+<p>
+<section class="card-container">
+    <div>
+        <img src="/assets/images/cavern_12.jpg">
+    </div>
+    <div>
+        <img src="/assets/images/cavern_2.jpg">
+    </div>
+    <div>
+        <img src="/assets/images/cavern_6.jpg">
+    </div>
+</section>
+
+<div class="caption">Harpers Ferry Landmarks</div>
+</p>
 
 <h3>Largest Cavern on the East Coast</h3>
-<p>Yes, that's not only a boast, but true.  In addition, the air quality in the cavern is unique; better than the clearest day of the year. No kidding. Our tour guide mentioned that allergy suffers feel instant relief when touring the cavern. Not surprised, since the The temperature inside the cavern </p>
+<p><img id="l_small" src="/assets/images/cavern_11.jpg" alt="Cavern Location Marker">Yes, that's not only a boast, but true.  In addition, the air quality in the cavern is unique; better than the clearest day of the year. No kidding. Our tour guide mentioned that allergy suffers feel instant relief when touring the cavern. Not surprised, since the The temperature inside the cavern is always 54 degrees-even no matter what the thermostat reads above ground.</p>
 
-<p>The use of lighting against the There is quite a bit of information of the website that I won't repeat here.  But I can say, it's a geological marvel to see, and a must to visit to appreciate. </p>
-
-<p> I always liked traveling through the Appalacian trail tGetting to the site was a piece of cake.  </p>
-
+<p>The use of lighting in the cavern is the only piece of technology found in the underground tour.  A cell phone is useless (other than taking pictures). Which, in my honest opinion, allows one to appreciate the view.  There is quite a bit of information of the cavern website and others sources that I won't repeat here.  But I can say, it's a geological marvel to see.  There are tons of photos found online, but nothing matches the hour walking tour. </p>
 
 <p><img src="/assets/images/cavern_1.jpg" alt="Mirror image of stelagtites">
 <div class="caption">Standing Water Creates a Stalactites Mirror Reflection</div>
@@ -40,19 +57,13 @@ description: We finally found a great undergound getaway!
 <div class="caption">My Auto Museum Favorites</div>
 </p>
 
-<p><img id="r_small" src="/assets/images/cavern_4.jpg" alt="Sauchs Bridge">One of my favorie places visited was Sachs Covered Bridge (originally, Sauchs).  This bridge was originally built in 1854, and restored in 1996.  It was crossed by both Union and Confederate troops during the Civil War.</p>
-
-<p>I wasn't aware until our visit that this bridge is a frequent destination of ghost hunters, too.  My wife and I met a gentleman from West Virginia who was camped out there the night before with his ghost hunting troop. He confirmed that there is quite a bit of activity not only on the bridge, but in the fields Northeast of the bridge on the path toward the battlefield.</p>
-
-<p>I'm an admirer of covered bridges, and this was one of the finest I've seen.  For good reason - it's restricted now to foot traffic only.  It is listed in the National Register of Historic Places and should be on the list of sights to see if ever visiting the area.  You can read more information about this bridge and others at the <a href="http://bridgehunter.com/pa/adams/sachs-covered/" target="_blank">Bridgehunter</a> website.</p>
-
-<h3> </h3>
-
-<p><img id="l_small" src="/assets/images/cavern_5.jpg" alt="Horseback ride through the battlefield">  <a href="https://nationalridingstables.org/" target="_blank"></p>
+<h3>Hitting the Appalacian Trail</h3>
+<p>One of my favorie places visited was Sachs Covered Bridge (originally, Sauchs).  This bridge was originally built in 1854, and restored in 1996.  It was crossed by both Union and Confederate troops during the Civil War.</p>
 
 
-<p><img src="/assets/images/cavern_6.jpg" alt="South Court Inn Post">
 
+<p><img src="/assets/images/cavern_5.jpg" alt="Landscape Photo from Appalacian Trail"> 
+<div class="caption">View from the Appalacian Trail</div> 
 </p>
 
 <p><a class="myBtn" href="#top">TOP</a></p>
