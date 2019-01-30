@@ -6,9 +6,12 @@ description: We finally found a great undergound getaway!
 <body>
 <h1>Trip to Luray Caverns and Surrounding Area</h1>
 
-<p>In my travels up and down the Interstate routes over the years, I must of passed cavern row on I81 a dozen times driving from the FL Gulf Coast to the Northeast to visit family.  I always remembered passing the sign for Luray Caverns.  In my haste of praying to the church of blessed acceleration (love that Blues Brothers pun!), I'd never seem to find the time to make a stop there.  It wasn't until a few years later, living in the Chesapeake area, when we lived close enough to plan a long weekend journey.</p>
+<p>In my travels up and down the Interstate routes over the years, I must of passed cavern row on I81 a dozen times driving from the FL Gulf Coast to the Northeast to visit family.  I always remembered passing the sign for <a href="https://luraycaverns.com/" target="_blank">Luray Caverns</a>.  In my haste of praying to the church of blessed acceleration (love that Blues Brothers pun!), I'd never seem to find the time to make a stop there.  It wasn't until a few years later, living in the Chesapeake area, when we lived close enough to plan a long weekend journey.</p>
 
-<p></p>
+<h3>Largest Cavern on the East Coast</h3>
+<p>Yes, that's not only a boast, but true.  In addition, the air quality in the cavern is better than wearing a respirator.  Not kidding.  Our tour guide did mention that allergy suffers feel instant relief when touring the cavern.  There is quite a bit of information of the website that I won't repeat here.  But I can say, it's a geological marvel to see, and a must to visit to appreciate. </p>
+
+<p> I always liked traveling through the Appalacian trail tGetting to the site was a piece of cake.  </p>
 
 
 <p><img src="/assets/images/cavern_1.jpg" alt="Mirror image of stelagtites">
@@ -17,7 +20,8 @@ description: We finally found a great undergound getaway!
 
 <p> <a href="http://thefairfieldinn.com/" target="_blank"> </a> </p>
 
-<h3> </h3>
+
+
 
 <p><img id="r_small" src="/assets/images/cavern_4.jpg" alt="Sauchs Bridge">One of my favorie places visited was Sachs Covered Bridge (originally, Sauchs).  This bridge was originally built in 1854, and restored in 1996.  It was crossed by both Union and Confederate troops during the Civil War.</p>
 
