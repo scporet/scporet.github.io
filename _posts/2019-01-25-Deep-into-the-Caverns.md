@@ -58,7 +58,7 @@ Our route took down Route 340, from Maryland to Luray, with a stop at Harpers Fe
 </p>
 
 <h3>Hitting the Appalacian Trail</h3>
-<p>One of my favorie places visited was Sachs Covered Bridge (originally, Sauchs).  This bridge was originally built in 1854, and restored in 1996.  It was crossed by both Union and Confederate troops during the Civil War.</p>
+<p>During our trip back to the racnh, we entered Shenandoah National Park and hit the scenic Skyline Drive from the Luray entrace and headed north to exit at the Front Royal gate.  Other than some clouds, the weather was swell.  We were hoping for a little more color during the fall season, but it was still a nice drive.  There were tons of scenic lookout areas, including campsites and picnic areas.  I guess we should have planned better and pack a lunch; or even stop for some snacks before heading up the park trail.  Although, we were fortunate to hit the welcome center on our way out of the park, and stocked up on fluids and snacks before blazing a trail back to the homestead.</p>
 
 
 
