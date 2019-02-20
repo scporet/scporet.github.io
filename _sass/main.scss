@@ -369,11 +369,15 @@ blockquote {
     auto
     minmax(75px, auto) 
     1fr 
-    minmax(75px, auto) 
+    minmax(75px, auto)
     auto;
     }
     
 nav {
   margin: 0;
   }
+
+footer {
+  margin: 0;
+}
 }

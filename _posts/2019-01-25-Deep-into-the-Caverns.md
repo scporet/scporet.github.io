@@ -1,16 +1,16 @@
 ---
 layout: default
-description: We finally found a great undergound getaway!
+description: This was a great Appalachian undergound getaway!
 ---
 <html>
 <body>
-<h1>Appalacian Trail Trip to Luray, VA</h1>
+<h1>Appalachian Trail Trip to Luray, VA</h1>
 
-<p>In my travels up and down the Interstate routes over the years, I must of passed cavern row on I81 a dozen times driving from the FL Gulf Coast to the Northeast to visit family.  I always remembered passing the sign for <a href="https://luraycaverns.com/" target="_blank">Luray Caverns</a>.  In my haste of praying to the church of blessed acceleration (love that Blues Brothers pun!), I'd never seem to find the time to make a stop there.  It wasn't until a few years later, living in the Chesapeake area, we lived close enough to plan a long weekend journey.  </p>
+<p>In my travels up and down the Interstate routes over the years, I must of passed cavern row on I81 a dozen times driving from the Florida Gulf Coast to the Northeast to visit family.  I always remembered passing the sign for <a href="https://luraycaverns.com/" target="_blank">Luray Caverns</a>.  In my haste of praying to the church of blessed acceleration (love that Blues Brothers pun!), we never seem to find the time to make a stop there.  It wasn't until a few years later, living in the Chesapeake area, when we lived close enough to plan a long weekend journey.  </p>
 
 <h3>Harpers Ferry</h3>
 
-<p>On the route down Route 340 from Maryland, we made an afternoon stop at Harpers Ferry, WV.  It's cool how Rt. 340 crosses from Maryland into Virginia, and takes a right turn into West Virginia.  It's better viewed from the Wikimedia map of <a href="https://en.wikipedia.org/wiki/Harpers_Ferry,_West_Virginia#/media/File:Harpers_Ferry_National_Park_map.svg" target="_blank">Harpers Ferry Natioanl Park</a>.
+<p>On the route down Route 340 from Maryland, we made an afternoon stop at Harpers Ferry, WV.  It's cool how Rt. 340 crosses from Maryland into Virginia, and takes a right turn into West Virginia.  It's better viewed from the Wikimedia map of <a href="https://en.wikipedia.org/wiki/Harpers_Ferry,_West_Virginia#/media/File:Harpers_Ferry_National_Park_map.svg" target="_blank">Harpers Ferry National Park</a>.
 </p>
 
 <p>
@@ -32,7 +32,7 @@ description: We finally found a great undergound getaway!
 <h3>Largest Cavern on the East Coast</h3>
 <p><img id="l_small" src="/assets/images/cavern_11.jpg" alt="Cavern Location Marker">Yes, that's not only a boast, but true.  In addition, the air quality in the cavern is unique; better than the clearest day of the year. No kidding. Our tour guide mentioned that allergy suffers feel instant relief when touring the cavern. Not surprised, since the The temperature inside the cavern is always 54 degrees-even no matter what the thermostat reads above ground.</p>
 
-<p>The use of lighting in the cavern is the only piece of technology found in the underground tour.  A cell phone is useless (other than taking pictures). Which, in my honest opinion, allows one to appreciate the view.  There is quite a bit of information of the cavern website and others sources that I won't repeat here.  But I can say, it's a geological marvel to see.  There are tons of photos found online, but nothing matches the hour walking tour. 
+<p>The use of lighting in the cavern is the only piece of technology found in the underground tour.  A cell phone is useless (other than taking pictures). Which, in my honest opinion, allows one to appreciate the view.  There is quite a bit of information listed at the cavern website, and others sources that I won't repeat here.  But I can say, it's a geological marvel to see.  There are tons of photos found online, but nothing matches the one-hour walking tour. 
 </p>
 
 <p>
@@ -42,7 +42,7 @@ description: We finally found a great undergound getaway!
 
 <h3>Car and Carriage Museum</h3>
 
-<p>There are a couple of additional attractions to see once the cavern tour is completed.  There's a car and carriage museum that has some nice early-model automobiles on display-both domestic and foreign models.  I think the earliest model the have is an 1897 Mercedes.  I liked the Stanley Steamer and early Cadillacs.  Some of my favorite are shown below.  I should also mention the early toy and train collection display there, too.  I didn't spend much time there since I spent most of the time admiring the cars.
+<p>There are a couple of additional attractions to see once the cavern tour is completed.  There's a car and carriage museum that has some nice early-model automobiles on display-both domestic and foreign models.  I think the earliest model they have is an 1897 Mercedes.  I liked the Stanley Steamer and early Cadillacs.  Some of my favorite are shown below.  I should also mention the early toy and train collection display there, too.  I didn't spend much time there since I spent most of the time admiring the cars.
 </p>
 
 <p>
@@ -61,8 +61,8 @@ description: We finally found a great undergound getaway!
 <div class="caption">My Auto Museum Favorites</div>
 </p>
 
-<h3>Hitting the Appalacian Trail</h3>
-<p>During our trip back to the racnh, we entered Shenandoah National Park and hit the scenic Skyline Drive from the Luray entrace and headed north to exit at the Front Royal gate.  Other than some clouds, the weather was swell.  We were hoping for a little more color during the fall season, but it was still a nice drive.  There were tons of scenic lookout areas, including campsites and picnic areas.  I guess we should have planned better and pack a lunch; or even stop for some snacks before heading up the park trail.  Although, we were fortunate to hit the welcome center on our way out of the park, and stocked up on fluids and snacks before blazing a trail back to the homestead.</p>
+<h3>Hitting the Appalachian Trail</h3>
+<p>During our trip back to the ranch, we entered Shenandoah National Park and hit the scenic Skyline Drive from the Luray entrance and headed north to exit at the Front Royal gate.  Other than some clouds, the weather was swell.  We were hoping for a little more color during the fall season, but it was still a nice drive.  There were tons of scenic lookout areas, including campsites and picnic areas.  I guess we should have planned better and pack a lunch; or even stop for some snacks before heading up the park trail.  Although, we were fortunate to hit the welcome center on our way out of the park, and stocked up on fluids and snacks before blazing a trail back to the homestead.</p>
 
 
 

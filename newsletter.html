@@ -1,0 +1,51 @@
+---
+layout: none
+---
+
+<html>
+    <head>
+        <style>
+            body {
+           background-color: #fff8dc;
+           font-family: Arial, Helvetica, sans-serif;
+           font-size: .8em;
+           padding: 10px;
+           }
+
+           h1 {
+               text-decoration: underline;
+           }
+
+           .main {
+                border-width: 3px;
+                border-color: blue;
+           }
+
+           img {
+               width: 400px;
+           }
+        </style>
+    </head>
+<body class="main">
+<div>
+    <!--site logo-->
+    <a href="http://www.almostnomads.xyz">
+        <img class="img" src="http://almostnomads.xyz/assets/images/logo.png">
+    </a>
+    <h3>Living live like Nomads... without riding a camel</h3>
+
+
+{% for post in site.posts limit: 1 %}
+
+<h1>New Post Newsletter</h1>
+<h2>{{post.title}}</h2>
+
+<p>({{ post.date | date: "%b %-d, %Y" }})</p>
+<p> {{ post.description }} </p>
+<a href="{{post.url}}">Read more &raquo;</a></p>
+
+{% endfor %}
+
+</div>
+</body>
+</html>
