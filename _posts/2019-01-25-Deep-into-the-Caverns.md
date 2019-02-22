@@ -30,7 +30,7 @@ description: This was a great Appalachian undergound getaway!
 </p>
 
 <h3>Largest Cavern on the East Coast</h3>
-<p><img id="l_small" src="/assets/images/cavern_11.jpg" alt="Cavern Location Marker">Yes, that's not only a boast, but true.  In addition, the air quality in the cavern is unique; better than the clearest day of the year. No kidding. Our tour guide mentioned that allergy suffers feel instant relief when touring the cavern. Not surprised, since the The temperature inside the cavern is always 54 degrees-even no matter what the thermostat reads above ground.</p>
+<p><img id="l_small" src="/assets/images/cavern_11.jpg" alt="Cavern Location Marker">Yes, that's not only a boast, but true.  In addition, the air quality in the cavern is unique; better than the clearest day of the year. No kidding. Our tour guide mentioned that allergy sufferers feel instant relief when touring the cavern. Not surprised, since the The temperature inside the cavern is always 54 degrees-even no matter what the thermostat reads above ground.</p>
 
 <p>The use of lighting in the cavern is the only piece of technology found in the underground tour.  A cell phone is useless (other than taking pictures). Which, in my honest opinion, allows one to appreciate the view.  There is quite a bit of information listed at the cavern website, and others sources that I won't repeat here.  But I can say, it's a geological marvel to see.  There are tons of photos found online, but nothing matches the one-hour walking tour. 
 </p>
