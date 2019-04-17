@@ -11,9 +11,12 @@ Before diving into gh-pages, I had to first learn how to install and run Git.  H
 ## How this Blog is Built
 The files in this respository have been created on a Windows 10 computer with [Windows Susbystem for Linux (WSL)](https://docs.microsoft.com/en-us/windows/wsl/install-win10) installed.  The WSL compatability engine runs all the binaries required to build a a local blog on your home computer. Listed below are the steps the I followed:
 
-### Prepare WSL
+1. Prepare WSL
 
 Before navigating to the Windows Store to install a WSL binary, the WSL feature should be enabled. Open PowerShell and enter the following:
 
 > **Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux**
 
+2. Install your favorite Linux Distribution
+
+> Select the Windows Key + S to open Cotana search and enter 'store.'  From there, select the Linux distribution to install.
