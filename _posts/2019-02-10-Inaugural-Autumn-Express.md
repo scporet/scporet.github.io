@@ -62,8 +62,7 @@ https://www.strasburgrailroad.com/" target="_blank">Strasburg Railroad</a>.  Che
 </p>
 
 <p>
-Last but not least, is the <a href="https://www.newhoperailroad.com/" target="_blank">New Hope Railroad</a>.  Here we enjoyed a dining excursion  
-</p>
+Last but not least, is the <a href="https://www.newhoperailroad.com/" target="_blank">New Hope Railroad</a>.  Here we enjoyed a dining excursion through Bucks Country on the traditional New Hope Branch. After we finished dinner in the parlor car, we headed out to the open observation car for the remainder of the trip where we enjoyed the summer air and view of the Bucks County countryside.  It was about a one hour trip up to Lahaska, PA where we changed direction and returned back to New Hope.  </p>
 
 <p><img src="/assets/images/newhope.jpg" alt="New Hope Railroad Dining Excursion"></p>
 <div class="caption">New Hope, PA Railroad</div>
