@@ -1,0 +1,14 @@
+---
+layout: default
+---
+<!-- We're going to give each page a tag when we create it.
+This will be the title -->
+<h2>{{ page.tag | capitalize }}-Tagged Pages</h2>
+
+<ul>
+    {% for post in site.tags[page.tag] %}
+    <li class="highlight">
+        {{ post.date | date: "%B %d, %Y" }}: <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+    {% endfor %}
+</ul>

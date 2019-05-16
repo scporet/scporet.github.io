@@ -13,6 +13,7 @@ html, body {
 
 h1 {
   line-height: 1.2em;
+  font-family: $ff-s;
 }
 
 h2 {
@@ -21,10 +22,15 @@ h2 {
   text-decoration: underline;
 }
 
+h3 {
+  font-family: $ff-s;
+}
+
 .highlight {
   color: #221e1d;
+  font-family: $ff-ss;
   font-weight: bold;
-  font-style: italic;
+  line-height: 1.6em;
 }
 
 .mailcontainer {
@@ -225,6 +231,11 @@ ul {
   margin: 0;
   text-decoration: none;
   font-weight: bold;
+}
+
+.btop {
+  font-family: $ff-s;
+  font-size: 1.2rem;
 }
 
 a:link {

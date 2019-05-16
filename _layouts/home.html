@@ -12,6 +12,7 @@ layout: default
     {% for post in site.posts limit: 1 %}
    <ul>
        <li> 
+        <h1>{{ post.title}}</h1>
         <span class="postDate">({{ post.date | date: "%b %-d, %Y" }})</span>
         <span class="post_expt"> {{ post.content | lstrip | truncatewords: 50 }} </span>
         <br>

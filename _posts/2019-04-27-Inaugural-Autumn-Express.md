@@ -1,10 +1,9 @@
 ---
-layout: default
-description: All aboard the Amtrak Autumn Express! We were onboard for the inaugural trip from 30th St., Philly.
+layout: post
+title: Autumn Express and other Train Stories
+description: All aboard the Amtrak Autumn Express!
+tags: [train]
 ---
-<html>
-<body>
-<h1>Autumn Express and other Train Stories</h1>
 
 <p>I always enjoyed train travel. Well, enjoyed recreational train travel; not the kind that required me to rise at 4-something AM to catch the 5:40 to Washington, DC for those few years on the Maryland commuter rail.  Prior to that, I did get to know Amtrak routes quite well during time working up in Albany, NY.  For that time, working away from home, I would I hit the parking lot on Friday afternoon after work, with the weekend bag already packed in the boot, and streak down the NY Thruway, NJ Turnpike, onto I95 in DE, to make it back home to MD for a short weekend trip; reversing that action on Sunday night. That routine didn't last long.  After a few weekends, I decided to leave the driving to Amtrak.</p>
 
@@ -62,12 +61,10 @@ https://www.strasburgrailroad.com/" target="_blank">Strasburg Railroad</a>.  Che
 </p>
 
 <p>
-Last but not least, is the <a href="https://www.newhoperailroad.com/" target="_blank">New Hope Railroad</a>.  Here we enjoyed a dining excursion through Bucks Country on the traditional New Hope Branch. After we finished dinner in the parlor car, we headed out to the open observation car for the remainder of the trip where we enjoyed the summer air and view of the Bucks County countryside.  It was about a one hour trip up to Lahaska, PA where we changed direction and returned back to New Hope.  </p>
+Last but not least, is the <a href="https://www.newhoperailroad.com/" target="_blank">New Hope Railroad</a>.  Here we enjoyed a dining excursion through Bucks County on the traditional New Hope Branch. After we finished dinner in the parlor car, we headed out to the open observation car for the remainder of the trip where we enjoyed the summer air and view of the Bucks County countryside.  It was about a one hour trip up to Lahaska, PA where we changed direction and returned back to New Hope.  </p>
 
 <p><img src="/assets/images/newhope.jpg" alt="New Hope Railroad Dining Excursion"></p>
 <div class="caption">New Hope, PA Railroad</div>
 
 <p><a class="myBtn" href="#top">TOP</a></p>
-
-</body>
-</html>
+<br />

@@ -12,17 +12,22 @@ html, body {
   font-size: calc(12px + (26 - 14) * ((100vw - 300px) / (1600 - 300))); }
 
 h1 {
-  line-height: 1.2em; }
+  line-height: 1.2em;
+  font-family: "Fenix", serif; }
 
 h2 {
   padding-left: 25px;
   font-family: "Fenix", serif;
   text-decoration: underline; }
 
+h3 {
+  font-family: "Fenix", serif; }
+
 .highlight {
   color: #221e1d;
+  font-family: "Heebo", sans-serif;
   font-weight: bold;
-  font-style: italic; }
+  line-height: 1.6em; }
 
 .mailcontainer {
   border: 2px solid black;
@@ -190,6 +195,10 @@ ul {
   margin: 0;
   text-decoration: none;
   font-weight: bold; }
+
+.btop {
+  font-family: "Fenix", serif;
+  font-size: 1.2rem; }
 
 a:link {
   color: #915609; }
