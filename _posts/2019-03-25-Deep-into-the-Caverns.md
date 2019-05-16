@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Deep into the Caverns
 description: This was a great Appalachian undergound getaway!
 tags: [virginia]
 ---
