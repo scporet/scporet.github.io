@@ -211,7 +211,7 @@ a {
   target-name: new; }
 
 .button {
-  background-color: #4CAF50;
+  background-color: #4caf50;
   border: 2px solid black;
   color: white;
   border-radius: 12px;
@@ -222,6 +222,19 @@ a {
   font-size: 12px;
   text-transform: capitalize;
   font-family: "Oswald", sans-serif; }
+
+.tagged {
+  background-color: #ddd6d6;
+  border: 1px solid black;
+  color: black;
+  border-radius: 3px;
+  padding: 5px 8px;
+  text-align: center;
+  font-weight: bold;
+  display: inline-block;
+  font-size: 14px;
+  text-transform: capitalize;
+  font-family: "Fenix", serif; }
 
 .button:hover {
   background-color: white;

@@ -2,7 +2,7 @@
 layout: post
 title: Weekend Getaway to Gettysburg
 description: A recommended destination if you happen to be within driving distance!
-tags: [pennsylvania, historical]
+tags: [historical, penn]
 ---
 
 <p>When I created this blog, I didn't want to limit the entries to extravagant vacation stories-like the previous entry from our trip to Italy.  At a minimum, I classify a travel experience as one that requires stuffing underwear and socks in a overnight bag along with a shower kit.  </p>

@@ -2,7 +2,7 @@
 layout: post
 title: Best Kept Secret in Florence
 description: Our visit to the Florence American Cemetery was a pleasant surprise
-tags: [italy]
+tags: [italy, overseas]
 ---
 
 <p>Traveling through Tuscana was one of the most memorable moments of our Italy vacation.  Our tour guide (thanks, Franco!) suprised us with an unexpected stop at the <a href="https://www.abmc.gov/cemeteries-memorials/europe/florence-american-cemetery" target="_blank">Florence American Cemtery</a>.  It was a solumn visit.  The morning we left for San Giminano was cool, damp and foggy, which set the mood for the visit.</p>
