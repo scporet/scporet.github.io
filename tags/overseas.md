@@ -1,6 +1,6 @@
 ---
 layout: tagpage
 tag: overseas
-permalink: /tags/overseas # This is only required for pretty links.
+permalink: /tags/overseas
 description: Overseas Travel Blog Posts
 ---

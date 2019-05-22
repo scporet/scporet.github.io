@@ -1,6 +1,6 @@
 ---
 layout: tagpage
 tag: penn
-permalink: /tags/penn # This is only required for pretty links.
+permalink: /tags/penn
 description: Blog Posts with Tag = Pennsylvania
 ---
