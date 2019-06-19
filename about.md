@@ -13,10 +13,11 @@ layout: default
 
 > #### NOMAD. Noun *(n)*. Member of a people or tribe who move from place to place to find pasture and food; or, a person who continually moves from place to place; wanderer.
 
-<p>Moving place to place used to be a lifestyle for me.  Over the span of my military career, and the years that followed, I moved over 15 times.  I figured over 15 moves to places to hang the hat, plus a few more places traveled for job requirements, and vacation.  It was sort of an extended episode of "Planes, Trains, and Automobiles."  Lots of planes, road trips, hotels, and shleping suitcaes--even long before luggage had wheels!</p>
+<p>Moving place to place used to be a lifestyle for me.  Over the span of my military career, and the years that followed, I moved over 15 times.  I figured over 15 moves to places to hang the hat, plus a few more places traveled for job requirements, and vacation.  It was sort of an extended episode of "Planes, Trains, and Automobiles."  Lots of planes, road trips, hotels, and schlepping suitcases--even long before luggage had wheels!</p>
 
 <p>
 <img src="/assets/images/mapped.jpg" alt="my travel pin map" />
 <div class="caption">Push Pin Map of our Travels.</div>
 </p>
+
 
