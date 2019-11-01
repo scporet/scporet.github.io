@@ -14,7 +14,7 @@ html {
 body {
   font-family: "Fenix", sans-serif;
   background-color: white;
-  width: 800px;
+  width: 80vw;
   height: 100%;
   margin: 0 auto;
   padding: 0;
@@ -71,8 +71,8 @@ textarea {
 */
 .container {
   display: grid;
-  grid-template-areas: "header header header" "nav content content" "footer footer footer";
-  grid-template-columns: 180px 1fr;
+  grid-template-areas: "lside header header header rside" "lside nav content content rside" "lside footer footer footer rside";
+  grid-template-columns: auto 180px 1fr auto;
   grid-template-rows: auto 1fr auto;
   grid-gap: 0;
   min-height: 100vh;
@@ -145,7 +145,7 @@ header {
 
 main {
   grid-area: content;
-  padding: 0px 20px;
+  padding: 0px 10px;
   margin: 0; }
 
 aside {
@@ -234,9 +234,6 @@ a:link {
 a:hover {
   color: #0f1b61;
   text-decoration: underline; }
-
-a {
-  target-name: new; }
 
 .button {
   background-color: #4caf50;
@@ -356,7 +353,10 @@ blockquote {
   .container {
     grid-template-areas: "header" "nav" "content" "footer";
     grid-template-columns: 1fr;
-    grid-template-rows: auto minmax(75px, auto) 1fr minmax(75px, auto) auto; }
+    grid-template-rows: auto minmax(55px, auto) 1fr minmax(55px, auto) auto; }
+
+  body {
+    width: 100%; }
 
   nav {
     margin: 0; }
