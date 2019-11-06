@@ -353,7 +353,7 @@ blockquote {
   .container {
     grid-template-areas: "header" "nav" "content" "footer";
     grid-template-columns: 1fr;
-    grid-template-rows: auto minmax(55px, auto) 1fr minmax(55px, auto) auto; }
+    grid-template-rows: auto minmax(75px, auto) 1fr minmax(75px, auto) auto; }
 
   body {
     width: 100%; }
