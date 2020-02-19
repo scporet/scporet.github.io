@@ -1,6 +1,6 @@
 ---
 title: About Us
-description: It's not like I have anything better to do!
+description: Some information about this Blog
 layout: default
 ---
 
