@@ -204,35 +204,20 @@ aside {
 }
 
 // Footer Style //
-/*
-footer {
-  grid-area: footer;
-  margin: 0px;
-  height: 50px;
-  background: gray;
-  border-top: 2px solid #000;
-  color: white;
-  font-family: $ff-s;
-  display: flex;
-  flex-direction: row; 
-  flex-shrink: 0;
-  justify-content: center; 
-  align-items: center;
-}
-*/
 
 footer {
   grid-area: footer;
+  text-align: center;
   margin: 0px;
   padding: 7px;
-  height: 60px;
+  height: auto;
   background: #a6b8be;
   border-top: 2px solid #000;
   color: rgb(67, 80, 57);
   font-family: "Fenix", serif;
-  font-size: 12pt;
+  font-size: 1.0em;
   font-weight: bold;
-  line-height: 1.2rem;
+  line-height: 1.4rem;
  }
 
 ul {
