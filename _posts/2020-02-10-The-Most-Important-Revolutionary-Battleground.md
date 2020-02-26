@@ -2,21 +2,24 @@
 layout: post
 title: Visit To Saratoga Battlefield
 description: The Pivotal Battle of the Revolution
-tags: [ny, historical]
+tags: [historical]
 ---
 
-<p>I always enjoyed train travel. Well, enjoyed recreational train travel; not the kind that required me to rise at 4-something AM to catch the 5:40 to Washington, DC for those few years on the Maryland commuter rail.  Prior to that, I did get to know Amtrak routes quite well during time working up in Albany, NY. </p>
+<p>During my time working in upstate New York I had the unique opportunity to visit the <a href="https://www.nps.gov/sara/index.htm" target="_blank">Saratoga National Park</a>.  Not only do I enjoy history (The <a href="https://history.com" target="_blank">History Channel</a> is on my cable favorites list!), I have read plenty books on the American Revolution, and usually tune into any Revolutionary War-era program on TV.  I have to say, this trip was not a disappointment, and remains top of the list of sites I would like to return with grandkids in-tow.</p>
 
 <h3>Battleground Walking Tour</h3>
-<p><img src="/assets/images/hist1.jpg" alt="Amtrak Lunch Box">
-<div class="caption">Riding up the Susquehanna River on the Autumn Express</div>
+
+<p>There's ample parking at the Visitor Center, and view some of the artifacts and battlefield information was helpful.  Of course, don't venture out on the tour without grabbing a tour map of the park.  I decided to forego taking the car on the driving tour road and settled for walking the grounds.  I would highly recommend wearing comfortable shoes if you decide on doing the same.</p>
+
+<p><img src="/assets/images/hist1.jpg" alt="Canon facing British Forces from the Neilson House">
+<div class="caption">Canon Sits in front of the Neilson House</div>
 </p>
 
 <p>For that time, working away from home, I would I hit the parking lot on Friday afternoon after work, with the weekend bag already packed in the boot, and streak down the NY Thruway, NJ Turnpike, onto I95 in DE, to make it back home to MD for a short weekend trip; reversing that action on Sunday night. That routine didn't last long.  After a few weekends, I decided to leave the driving to Amtrak.</p>
 
 <h3>Saratoga Monument</h3>
 
-<p><img id="l_small" src="/assets/images/hist8.jpg" alt="Amtrak Lunch Box">Leaving the Albany-Rensselaer station was a breeze, and a welcome relief from the 5-hour, one-way drive back to MD.  Although, boarding the connection rail at New York Penn Station was another experience.  But, it worked out well.  And I even accumulated some reward points and keyed into early promotions by signing up and using the phone app.  Which is where I found early booking information for the <a href="https://media.amtrak.com/2013/08/amtrak-operates-special-autumn-express-train/" target="_blank" alt="Complimentary Amtrak Lunch"> Inaugural Fall Express trip.</a></p>
+<p><img id="l_small" src="/assets/images/hist8.jpg" alt="Amtrak Lunch Box">In late September, British Army General Clinton was moving his army north to support Burgoyne, marching within 30 miles of Albany before General Howe order his return to New York City.  And that's what today's fighting force calls a poor strategic move.  As Burgoynes  was Leaving the Albany-Rensselaer station was a breeze, and a welcome relief from the 5-hour, one-way drive back to MD.  Although, boarding the connection rail at New York Penn Station was another experience.  But, it worked out well.  And I even accumulated some reward points and keyed into early promotions by signing up and using the phone app.  Which is where I found early booking information for the <a href="https://media.amtrak.com/2013/08/amtrak-operates-special-autumn-express-train/" target="_blank" alt="Complimentary Amtrak Lunch"> Inaugural Fall Express trip.</a></p>
 
 <p>This was a win-win for us.  First, we enjoy train travel.  Second, Fall is our favorite season.  So, to have the opportunity to take this inaugural trip during our favorite time of year was a real treat.  We boarded the trip from the Amtrak <a href="https://en.wikipedia.org/wiki/30th_Street_Station#In_popular_culture" target="_blank">30th Street Station in Philadelphia</a>-the same one showcased in the movie, Trading Places (one of my favorite movies!).  All 16 cars were full, and included a cafe car (which was pretty packed the whole trip).  All passengers were provided a boxed lunch in a commemorative lunchbag. </p>
 
