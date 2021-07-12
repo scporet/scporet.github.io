@@ -1,53 +1,4 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Best Kept Secret in Florence | Almost Nomads</title>
-        <link rel="stylesheet" href="/assets/css/styles.css">
-    </head>
-<body>
-
-<div class="container">
-
-  <header class="title-area">
-    <img class="top_img" src="/assets/images/logo.png">
-    <p class="sub-title">Our visit to the Florence American Cemetery was a pleasant surprise</p>
-  </header>
-  
-  <nav class="nav">
-      
-<nav class="nav_list">
-
-      <ul>
-            <li><a href="/" class="active">Latest Posts</a></li>
-            <li> <a href="/archives.html">Older Posts</a></li>
-            <li><a href="/about.html">About</a></li>
-            <li><a href="/contact.html">Contact</a></li>
-      </ul>
-</nav>
-     
-
-  </nav>
-  
-  <main>
-    <html>
-  <body>
-
-  
-   <h1>Best Kept Secret in Florence</h1>
-
-    <ul class="tagged">
-      <li>09 Jan 2020 | Tags: 
-       <a href="/tags/italy/">italy</a>
-       
-       <a href="/tags/overseas/">overseas</a>
-       
-      </li>
-    </ul>
-  
-   <div>
-
-         <p id="top">Traveling through Tuscana was one of the most memorable moments of our Italy vacation.  Our tour guide (thanks, Franco!) suprised us with an unexpected stop at the <a href="https://www.abmc.gov/cemeteries-memorials/europe/florence-american-cemetery" target="_blank">Florence American Cemtery</a>.  It was a solumn visit.  The morning we left for San Giminano was cool, damp and foggy, which set the mood for the visit.</p>
+I"¬	<p id="top">Traveling through Tuscana was one of the most memorable moments of our Italy vacation.  Our tour guide (thanks, Franco!) suprised us with an unexpected stop at the <a href="https://www.abmc.gov/cemeteries-memorials/europe/florence-american-cemetery" target="_blank">Florence American Cemtery</a>.  It was a solumn visit.  The morning we left for San Giminano was cool, damp and foggy, which set the mood for the visit.</p>
 <p><br /></p>
 <p><img src="/assets/images/IMG_0783.jpg" alt="Florence American Cemetery" />
 <div class="caption">Morning View of the Florence American Cemetery</div>
@@ -63,21 +14,4 @@
 <p>Since we were on a tight schedule, we were not afforded enough time to walk the entire gravesite.  I really wanted to hoof it up to the memorial building to view the atrium and the military operations map, along with wall engravings and lists of the missing; which can be viewed <a href="https://www.abmc.gov/sites/default/files/publications/Florence.pdf" target="_blank">here</a>.  We kept close to the entrance, but I was able to catch some nice photos of the view from the first plot and surrounding area.  The statue to the left is one of two 361st Regimental statues keeping watch over the gravesite.  It is located overlooking plot A (photo above).  There are 8 plots, symetrically aligned in formation of two-by-two, with a walking path up to the memorial building.  The visit was truly a welcome surprise for the tour group. </p>
 
 <p><a class="myBtn" href="#top">TOP</a></p>
-
-
-   </div>         
-               
-
-  </body>
-  </html>
-
-
-  </main>
-
-<footer class="foot">
-      <p>This blog built with <a href="http://jekyllrb.com">Jekyll</a></p>
-  </footer>
-</div>
-
-</body>
-</html>
+:ET

@@ -1,36 +1,4 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>About Us | Almost Nomads</title>
-        <link rel="stylesheet" href="/assets/css/styles.css">
-    </head>
-<body>
-
-<div class="container">
-
-  <header class="title-area">
-    <img class="top_img" src="/assets/images/logo.png">
-    <p class="sub-title">Some information about this Blog</p>
-  </header>
-  
-  <nav class="nav">
-      
-<nav class="nav_list">
-
-      <ul>
-            <li><a href="/" class="active">Latest Posts</a></li>
-            <li> <a href="/archives.html">Older Posts</a></li>
-            <li><a href="/about.html">About</a></li>
-            <li><a href="/contact.html">Contact</a></li>
-      </ul>
-</nav>
-     
-
-  </nav>
-  
-  <main>
-    <h1> About Us </h1>
+I"<h1> About Us </h1>
 
 <p><img id="stamp" src="/assets/images/almostnomads.png" alt="Your Hosts" /> Hello, and welcome! So, what's with creating a travel blog?  First, it's a place for family and friends to drop by and read about our favorite experiences and past travels (yawn! .. and also, boring!).  </p>
 
@@ -63,13 +31,4 @@
 <div class="caption">Push Pin Map of our Travels.</div>
 </p>
 
-
-  </main>
-
-<footer class="foot">
-      <p>This blog built with <a href="http://jekyllrb.com">Jekyll</a></p>
-  </footer>
-</div>
-
-</body>
-</html>
+:ET

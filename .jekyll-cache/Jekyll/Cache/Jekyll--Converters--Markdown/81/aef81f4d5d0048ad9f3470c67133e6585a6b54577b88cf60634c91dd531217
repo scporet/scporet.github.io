@@ -1,53 +1,4 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Weekend Getaway to Gettysburg | Almost Nomads</title>
-        <link rel="stylesheet" href="/assets/css/styles.css">
-    </head>
-<body>
-
-<div class="container">
-
-  <header class="title-area">
-    <img class="top_img" src="/assets/images/logo.png">
-    <p class="sub-title">A recommended destination if you happen to be within driving distance!</p>
-  </header>
-  
-  <nav class="nav">
-      
-<nav class="nav_list">
-
-      <ul>
-            <li><a href="/" class="active">Latest Posts</a></li>
-            <li> <a href="/archives.html">Older Posts</a></li>
-            <li><a href="/about.html">About</a></li>
-            <li><a href="/contact.html">Contact</a></li>
-      </ul>
-</nav>
-     
-
-  </nav>
-  
-  <main>
-    <html>
-  <body>
-
-  
-   <h1>Weekend Getaway to Gettysburg</h1>
-
-    <ul class="tagged">
-      <li>16 Jan 2020 | Tags: 
-       <a href="/tags/historical/">historical</a>
-       
-       <a href="/tags/penn/">penn</a>
-       
-      </li>
-    </ul>
-  
-   <div>
-
-         <p>When I created this blog, I didn't want to limit the entries to extravagant vacation stories-like the previous entry from our trip to Italy.  At a minimum, I classify a travel experience as one that requires stuffing underwear and socks in a overnight bag along with a shower kit.  </p>
+I"Ú<p>When I created this blog, I didn't want to limit the entries to extravagant vacation stories-like the previous entry from our trip to Italy.  At a minimum, I classify a travel experience as one that requires stuffing underwear and socks in a overnight bag along with a shower kit.  </p>
 
 <p>Back to this post... </p>
 
@@ -75,21 +26,4 @@
 <p><img id="r_small" src="/assets/images/getty_3.jpg" alt="Horseback ride through the battlefield" /> The highlight of our trip was the battlefield horseback ride at the <a href="https://nationalridingstables.org/" target="_blank">National Riding Stables Horse Rescue</a>.  Truly, I never claimed to be a bucking bronco.  And for a good reason.  First, I felt pretty bad for the old horse that hauled my grand frame over 2 miles.  He definitely deserved a couple extra carrots that day.  Second, hats off to those that can ride at speeds I would only dream of.  I think my center of gravity was shifting with each step the horse made.  So I was happy we made nice, small strides through the battlefield.  Even though I had my camera with me, it was tough to focus and keep my center of gravity fixed on the saddle.  One of the staff there was kind enough to take a picture of us berfore we headed toward the battlefield. Poor trigger.</p>
 
 <p><a class="myBtn" href="#top">TOP</a></p>
-
-
-   </div>         
-               
-
-  </body>
-  </html>
-
-
-  </main>
-
-<footer class="foot">
-      <p>This blog built with <a href="http://jekyllrb.com">Jekyll</a></p>
-  </footer>
-</div>
-
-</body>
-</html>
+:ET
