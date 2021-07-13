@@ -8,18 +8,16 @@ html {
   font-size: calc(12px + (26 - 14) * ((100vw - 300px) / (1600 - 300)));
   width: 100%;
   min-height: 100vh; 
-  background-color: burlywood;
 }
 
 body {
   font-family: "Fenix", sans-serif;
   background-color: rgb(221, 213, 178);
-  width: 90vw;
+  width: 100%;
   height: 100%;
   margin: 0 auto;
   padding: 0;
   min-height: 100vh;
-  background-color: blanchedalmond;
 }
 
 h1 {
@@ -64,30 +62,21 @@ input {
   border-radius: 5px;
   padding: 5px;
 }
-/*
-textarea {
-  height: 5em;
-  width: 15em;
-  font-family: $ff-s;
-  font-size: 14px;
-  border: 1px solid black;
-  border-radius: 5px;
-  padding: 5px;
-}
-*/
 
 .container {
   display: grid;
   grid-template-areas:
-    "lside header header header rside"
-    "lside nav content content rside"
-    "lside footer footer footer rside";
-  grid-template-columns: auto 180px 1fr auto;
-  grid-template-rows: auto 1fr auto;
+    "header header header header header"
+    "nav nav nav nav nav"
+    "content content content content content"
+    "footer footer footer footer footer";
+  grid-template-columns: repeat(5, 1fr);
+  grid-template-rows: auto auto 1fr auto;
   grid-gap: 0;
   min-height: 100vh;
   height: 100%;
-  border: 1px solid black;
+  border-left: 2px solid black;
+  border-right: 2px solid black;
 }
 
 .card-container {
@@ -101,22 +90,21 @@ textarea {
 // Navigation Properties
 
 nav {
-  height: 100%;
+  height:auto;
   margin-left: 0;
   grid-area: nav;
   padding: 0;
-  margin-top: 0px;
-  margin-bottom: 10px;
-  background-color: rgb(208, 212, 153);
-  border-right: 1px solid black;
+  margin: 0;
+  background-color: #e6dbc6;
+  border-bottom: 2px solid black;
 }
 
 .nav_list ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  width: 180px auto;
-  background-color: rgb(208, 212, 153);
+  background-color: #e7e68e;
+  border-bottom: 1px solid black;
 }
 
 .nav_list ul li a {
@@ -126,8 +114,8 @@ nav {
   text-decoration: none;
   font-weight: bold;
   color: #2c3507;
-  font-family: $ff-nav;
-  border-bottom: #000 1px;
+  font-family: $ff-ss;
+  float: left;
 }
 
 .nav_list ul li a:hover {
@@ -139,16 +127,16 @@ nav {
 header {
   height: auto;
   grid-area: header;
-  background-image:
-    linear-gradient(to right, rgb(224, 229, 153), #b95808);
+  background-color: #b39f60;
 }
 
 .title {
-  font-family: $ff-s;
-  text-transform: uppercase;
-  font-size: 3rem;
+  font-family: $ff-ss;
+  font-style: italic;
+  font-size: 1.2rem;
   margin: 0;
-  width: 75%;
+  width: 55%;
+  float: right;
 } 
 
 .title-area {
@@ -156,7 +144,6 @@ header {
   color: black;
   padding: 15px;
   margin: 0;
-  border-bottom: 2px solid #000000;
 }
 
 .sub-title {
@@ -205,16 +192,13 @@ aside {
 footer {
   grid-area: footer;
   text-align: center;
-  margin: 0px;
-  padding: 7px;
-  height: auto;
+  margin: 0;
+  padding: 0;
   background: #b39f60;
   border-top: 2px solid #000;
   color: rgb(229, 226, 194);
-  font-family: $ff-nav;
+  font-family: $ff-s;
   font-size: 1.0em;
-  font-weight: bold;
-  line-height: 1.4rem;
  }
 
 ul {
@@ -386,10 +370,34 @@ blockquote {
     height: auto;
     position: relative;
     margin: 0 auto;
+    border-bottom: 2px solid black;
   }
 
   div.content{
     margin-left: 0;
+  }
+
+  .title-area {
+    border-bottom: 2px solid black;
+  }
+
+  .nav_list ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 180px auto;
+    background-color: #8298d3;
+  }
+  
+  .nav_list ul li a {
+    display:block;
+    text-align: center;
+    padding: .5em 1.0em .5em 1.0em;
+    text-decoration: none;
+    font-weight: bold;
+    color: #221e1d;
+    font-family: $ff-s;
+    border-bottom: #000 1px;
   }
 
   .container {
@@ -402,15 +410,17 @@ blockquote {
   grid-template-columns: 1fr;
   grid-template-rows: 
     auto
-    minmax(75px, auto) 
+    auto
     1fr 
-    minmax(75px, auto)
     auto;
     }
 
 body {
   width: 100%;
+  border-radius: 0;
 }
+
+
 nav {
   margin: 0;
   }
