@@ -4,21 +4,21 @@
         <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0">
         <title>{{ page.title }} | {{ site.title }}</title>
         <link rel="stylesheet" href="/assets/css/styles.css">
-        <script src="../assets/js/show.js"></script>
+        <script src="/assets/js/show.js"></script>
     </head>
 <body>
 
 <div class="container">
 
+  <nav>
+    {% include navigation.html %}
+  </nav>
+
   <header class="title-area">
     <img class="top_img" src="/assets/images/logo.png">
     <p class="title">Travel stories and experiences over the years....</p>
   </header>
-  
-  <nav>
-      {% include navigation.html %}
-  </nav>
-  
+    
   <main>
     {{ content }}
   </main>
