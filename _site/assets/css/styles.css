@@ -43,7 +43,7 @@ header { height: auto; grid-area: header; }
 
 .title-area { text-align: auto; color: black; padding: 15px; margin: 0; }
 
-.sub-title { text-align: left; font-family: "Old Standard TT", serif; font-weight: bold; line-height: 1.0em; color: #3a370e; width: auto; }
+.sub-title { text-align: left; font-family: "Old Standard TT", serif; font-weight: bold; text-decoration: underline; line-height: 1.0em; font-style: italic; color: #3a370e; width: auto; }
 
 main { grid-area: content; padding: 0px 30px; margin: 0; }
 
