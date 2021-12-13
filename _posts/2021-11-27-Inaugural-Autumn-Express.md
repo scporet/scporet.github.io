@@ -1,65 +1,15 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Autumn Express and other Train Stories | Almost Nomads</title>
-        <link rel="stylesheet" href="/assets/css/styles.css">
-        <script src="/assets/js/show.js"></script>
-    </head>
-<body>
+---
+layout: post
+title: Autumn Express and other Train Stories
+description: All aboard the Amtrak Autumn Express!
+tags: [train, penn]
+---
 
-<div class="container">
-
-  <nav>
-    
-
-
-      <div id="sidebar">
-            <div class="toggle-btn" onclick="show()">
-                <span></span>
-                <span></span>
-                <span></span>
-            </div>
-    
-        <ul>
-            <li><a href="/">Latest Posts</a></li>
-            <li> <a href="/archives.html">Older Posts</a></li>
-            <li><a href="/about.html">About</a></li>
-            <li><a href="/tags.html">Tags</a></li>
-        </ul>
-        </div>
-  </nav>
-
-  <header class="title-area">
-    <img class="top_img" src="/assets/images/logo.png">
-    <p class="title">Travel stories and experiences over the years....</p>
-  </header>
-    
-  <main>
-    <html>
-  <body>
-
-  
-   <h1>Autumn Express and other Train Stories</h1>
-
-   <h3 class="sub-title">All aboard the Amtrak Autumn Express!</h3>
-
-    <ul class="tagged">
-      <li>27 Jan 2020 | Tags: 
-       <a href="/tags/train/">train</a>
-       
-       <a href="/tags/penn/">penn</a>
-       
-      </li>
-    </ul>
-  
-   <div>
-
-         <p>I always enjoyed train travel. Well, enjoyed recreational train travel; not the kind that required me to rise at 4-something AM to catch the 5:40 to Washington, DC for those few years on the Maryland commuter rail.  Prior to that, I did get to know Amtrak routes quite well during time working up in Albany, NY.  For that time, working away from home, I would I hit the parking lot on Friday afternoon after work, with the weekend bag already packed in the boot, and streak down the NY Thruway, NJ Turnpike, onto I95 in DE, to make it back home to MD for a short weekend trip; reversing that action on Sunday night. That routine didn't last long.  After a few weekends, I decided to leave the driving to Amtrak.</p>
+<p>I always enjoyed train travel. Well, enjoyed recreational train travel; not the kind that required me to rise at 4-something AM to catch the 5:40 to Washington, DC for those few years on the Maryland commuter rail.  Prior to that, I did get to know Amtrak routes quite well during time working up in Albany, NY.  For that time, working away from home, I would I hit the parking lot on Friday afternoon after work, with the weekend bag already packed in the boot, and streak down the NY Thruway, NJ Turnpike, onto I95 in DE, to make it back home to MD for a short weekend trip; reversing that action on Sunday night. That routine didn't last long.  After a few weekends, I decided to leave the driving to Amtrak.</p>
 
 <h3>Good Timing in Finding the Inaugural Fall Express</h3>
 
-<p><img id="l_small" src="/assets/images/amtrak_1.jpg" alt="Amtrak Lunch Box" />Leaving the Albany-Rensselaer station was a breeze, and a welcome relief from the 5-hour, one-way drive back to MD.  Although, boarding the connection rail at New York Penn Station was another experience.  But, it worked out well.  And I even accumulated some reward points and keyed into early promotions by signing up and using the phone app.  Which is where I found early booking information for the <a href="https://media.amtrak.com/2013/08/amtrak-operates-special-autumn-express-train/" target="_blank" alt="Complimentary Amtrak Lunch"> Inaugural Fall Express trip.</a></p>
+<p><img id="l_small" src="/assets/images/amtrak_1.jpg" alt="Amtrak Lunch Box">Leaving the Albany-Rensselaer station was a breeze, and a welcome relief from the 5-hour, one-way drive back to MD.  Although, boarding the connection rail at New York Penn Station was another experience.  But, it worked out well.  And I even accumulated some reward points and keyed into early promotions by signing up and using the phone app.  Which is where I found early booking information for the <a href="https://media.amtrak.com/2013/08/amtrak-operates-special-autumn-express-train/" target="_blank" alt="Complimentary Amtrak Lunch"> Inaugural Fall Express trip.</a></p>
 
 <p>This was a win-win for us.  First, we enjoy train travel.  Second, Fall is our favorite season.  So, to have the opportunity to take this inaugural trip during our favorite time of year was a real treat.  We boarded the trip from the Amtrak <a href="https://en.wikipedia.org/wiki/30th_Street_Station#In_popular_culture" target="_blank">30th Street Station in Philadelphia</a>-the same one showcased in the movie, Trading Places (one of my favorite movies!).  All 16 cars were full, and included a cafe car (which was pretty packed the whole trip).  All passengers were provided a boxed lunch in a commemorative lunchbag. </p>
 
@@ -68,7 +18,7 @@
 <p>There are some real train enthusiasts out there.  And I found a group that captured the inaugural trip in several youtube videos.  Click on the picture frame below to view:</p>
 
 <p>
-<a href="https://youtu.be/2xS0YOg55UI" target="_blank"><img src="/assets/images/amtrak_5.jpg" alt="Fall Express Video" /></a>
+<a href="https://youtu.be/2xS0YOg55UI" target="_blank"><img src="/assets/images/amtrak_5.jpg" alt="Fall Express Video"></a>
 </p>
 
 <h3>Norfolk Southern Line Run</h3>
@@ -78,17 +28,17 @@
 <p>I wasn't complaining-but I'm sure a few smokers were not happy with the change of plans.  Out of the 254 miles traveled, I captured quite a few pictures from the scenic-sized windows that were available on the coach cars.  I'm not sure what class of cars we were on, although I heard some train enthusiasts mention <i>Horizon</i>. </p>
 
 <p>
-<img src="/assets/images/amtrak_3.jpg" alt="Fall Foliage on The Susquehanna" />
+<img src="/assets/images/amtrak_3.jpg" alt="Fall Foliage on The Susquehanna">
 <div class="caption">Riding up the Susquehanna River on the Autumn Express</div>
 </p>
 
 <p>
-<img src="/assets/images/amtrak_2.jpg" alt="Somewhere in Lancaster County" />
+<img src="/assets/images/amtrak_2.jpg" alt="Somewhere in Lancaster County">
 <div class="caption">Autumn Express at full speed somewhere in Lancaster County</div>
 </p>
 
 <p>
-<img src="/assets/images/amtrak_8.jpg" alt="Crossing the Susquehana" />
+<img src="/assets/images/amtrak_8.jpg" alt="Crossing the Susquehana">
 <div class="caption">View of the Susquehanna River from the Rockville Bridge</div>
 </p>
 
@@ -100,39 +50,21 @@
 https://www.strasburgrailroad.com/" target="_blank">Strasburg Railroad</a>.  Check out the website and explore the tours section.  They host rail trips for just about any occasion.  For our tour we selected the evening Wine and Cheese trip.  The Strasburg Railroad runs a short trip out to Paradise, PA and back.  It's about a 50-minute trip and worth the experience.
 </p>
 
-<p><img src="/assets/images/amtrak_7.jpg" alt="Strasburg Railroad Wine and Cheese Trip" />
+<p><img src="/assets/images/amtrak_7.jpg" alt="Strasburg Railroad Wine and Cheese Trip">
 <div class="caption">Evening Wine and Cheese Tasting Trip in Strasburg, PA</div>
 </p>
 
 <p>During our time in MD, we also visited the <a href="http://www.wwrr.com/" target="_blank">Wilmington and Western Railroad</a> and museum. It's a full operating railroad and offers great party packages.  We indulged in the the 2.5 hour trip up to Hockessin, DE which includes a 30-minute layover to walk around the town.  Just enough time to grab a bite or shop.  We were lucky enough to catch an art show at the fire house right near the train station and was able to knock off a couple of Christmas presents off the list. </p>
 
-<p><img src="/assets/images/amtrak_6.jpg" alt="Wilmington and Western Train" />
-<div class="caption">Wilmington &amp; Western Railroad Museum Hockessin Flyer</div>
+<p><img src="/assets/images/amtrak_6.jpg" alt="Wilmington and Western Train">
+<div class="caption">Wilmington & Western Railroad Museum Hockessin Flyer</div>
 </p>
 
 <p>
 Last but not least, is the <a href="https://www.newhoperailroad.com/" target="_blank">New Hope Railroad</a>.  Here we enjoyed a dining excursion through Bucks County on the traditional New Hope Branch. After we finished dinner in the parlor car, we headed out to the open observation car for the remainder of the trip where we enjoyed the summer air and view of the Bucks County countryside.  It was about a one hour trip up to Lahaska, PA where we changed direction and returned back to New Hope.  </p>
 
-<p><img src="/assets/images/newhope.jpg" alt="New Hope Railroad Dining Excursion" /></p>
+<p><img src="/assets/images/newhope.jpg" alt="New Hope Railroad Dining Excursion"></p>
 <div class="caption">New Hope, PA Railroad</div>
 
 <p><a class="myBtn" href="#top">TOP</a></p>
-<p><br /></p>
-
-
-   </div>         
-               
-
-  </body>
-  </html>
-
-
-  </main>
-
-<footer class="footer">
-      <p>This blog built with help from <a href="http://digitallogicservices.com">Digital Logic Services, LLC</a></p>
-</footer>
-</div>
-
-</body>
-</html>
+<br />
