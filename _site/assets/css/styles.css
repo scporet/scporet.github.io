@@ -19,7 +19,7 @@ h3 { font-family: "Fenix", serif; }
 
 input { height: 3em; width: 15em; font-family: "Fenix", serif; font-size: 14px; border: 1px solid black; border-radius: 5px; padding: 5px; }
 
-.container { display: grid; grid-template-areas: "nav header header" "content content content"  "footer footer footer"; grid-template-columns: 180px 1fr 1fr; grid-template-rows: auto 1fr auto; grid-gap: 0; min-height: 100vh; height: 100%; }
+.container { display: grid; grid-template-areas: "nav header header" "content content content"  "footer footer footer"; grid-template-columns: auto 1fr 1fr; grid-template-rows: auto 1fr auto; grid-gap: 0; min-height: 100vh; height: 100%; }
 
 .card-container { display: grid; grid-template-columns: 1fr 1fr 1fr; grid-gap: 10px; padding: 10px; line-height: 1.4em; }
 
@@ -37,7 +37,7 @@ body { font-family: Source Sans Pro; }
 
 .toggle-btn span { width: 45px; height: 4px; background: #000; display: block; margin-top: 4px; }
 
-header { height: auto; grid-area: header; }
+header { height: auto; grid-area: header; border-bottom: 2px solid #000; }
 
 .title { font-family: "Heebo", sans-serif; font-style: italic; font-size: 1.2rem; margin: 0; width: 55%; float: right; }
 
@@ -55,7 +55,7 @@ aside { grid-area: side; margin-right: 0.5rem; }
 
 .archive li { padding: 20px; text-decoration: none; font-family: "Oswald", sans-serif; font-display: strong; }
 
-footer { grid-area: footer; text-align: center; margin: 0; background-color: #b49146; padding: 0; color: #61230b; font-family: Source Sans Pro; font-size: .8em; border: 1px solid black; }
+footer { grid-area: footer; text-align: center; margin: 0; padding: 0; color: #0e3dbe; font-family: Source Sans Pro; font-size: .8em; border-top: 2px solid black; }
 
 footer a { text-decoration: none; color: #61230b; }
 
