@@ -70,7 +70,7 @@ input {
     "nav header header"
     "content content content" 
     "footer footer footer";
-  grid-template-columns: 150px 1fr 1fr;
+  grid-template-columns: auto 1fr 1fr;
   grid-template-rows: auto 1fr auto;
   grid-gap: 0;
   min-height: 100vh;
@@ -218,16 +218,16 @@ footer {
   grid-area: footer;
   text-align: center;
   margin: 0;
-  padding: 0;
   color: rgb(14, 61, 190);
   font-family: Source Sans Pro;
   font-size: .8em;
   border-top: 2px solid black;
+  padding: 0 0 15px 0;
  }
 
 footer a {
   text-decoration: none;
-  color: rgb(97, 35, 11);
+  color: rgb(14, 61, 190);
 }
 
 ul {
@@ -270,7 +270,7 @@ a:link {
 }
 
 a:hover {
-  color: #494e6d;
+  color: rgb(14, 61, 190);
   text-decoration: underline;
 }
 
@@ -392,7 +392,7 @@ blockquote {
   font-style: italic;
 }
 
-@media (max-width: 758px) {
+@media (max-width: 784px) {
 
     .nav {
     width: 20%;
