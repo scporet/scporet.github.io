@@ -70,7 +70,7 @@ input {
     "nav header header"
     "content content content" 
     "footer footer footer";
-  grid-template-columns: auto 1fr 1fr;
+  grid-template-columns: 150px 1fr 1fr;
   grid-template-rows: auto 1fr auto;
   grid-gap: 0;
   min-height: 100vh;
@@ -87,6 +87,10 @@ input {
   border: 1px solid black;
   border-radius: 5px 5px;
   background-color: #ddd6d6;
+}
+
+.card-container :first-child {
+  grid-column: 1 / -1;
 }
 
 .split-right {
@@ -186,12 +190,12 @@ aside {
 
 .current-post {
   padding-left: 10px;
-  margin: 0;
   line-height: 1.2em;
   border-bottom:2px solid grey;
   border: 1px solid black;
   border-radius: 5px 5px;
   background-color: #ddd6d6;
+  margin: 15px 0;
 }
 
 .previous-posts {
@@ -262,16 +266,16 @@ ul {
 }
 
 a:link {
-  color: #915609;
+  color: #352a1b;
 }
 
 a:hover {
-  color: #0f1b61;
+  color: #494e6d;
   text-decoration: underline;
 }
 
 .button {
-  background-color: #4caf50; 
+  background-color: #8d8665;
   border: 2px solid rgb(0, 0, 0);
   color: white;
   border-radius: 12px;
@@ -316,7 +320,7 @@ a:hover {
   text-transform: capitalize;
   text-decoration: none;
   border: 2px solid rgb(0, 0, 0);
-  background-color: #4CAF50;
+  background-color: #8d8665;
   border-radius: 8px;
 }
 
@@ -379,8 +383,8 @@ img {
   align-self: left;
   margin: 0;
   padding: 0;
-  height: auto;
-  width: 300px;
+  height: 300;
+  width: auto;
   border: 0;
 }
 

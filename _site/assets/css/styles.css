@@ -19,9 +19,11 @@ h3 { font-family: "Fenix", serif; }
 
 input { height: 3em; width: 15em; font-family: "Fenix", serif; font-size: 14px; border: 1px solid black; border-radius: 5px; padding: 5px; }
 
-.container { display: grid; grid-template-areas: "nav header header" "content content content"  "footer footer footer"; grid-template-columns: auto 1fr 1fr; grid-template-rows: auto 1fr auto; grid-gap: 0; min-height: 100vh; height: 100%; }
+.container { display: grid; grid-template-areas: "nav header header" "content content content"  "footer footer footer"; grid-template-columns: 150px 1fr 1fr; grid-template-rows: auto 1fr auto; grid-gap: 0; min-height: 100vh; height: 100%; }
 
 .card-container { display: grid; grid-template-columns: 1fr 1fr 1fr; grid-gap: 10px; padding: 10px; margin-bottom: 15px; line-height: 1.4em; border: 1px solid black; border-radius: 5px 5px; background-color: #ddd6d6; }
+
+.card-container :first-child { grid-column: 1 / -1; }
 
 .split-right { border-right: 1px solid #000; }
 
@@ -51,7 +53,7 @@ main { grid-area: content; padding: 0px 30px; margin: 0; }
 
 aside { grid-area: side; margin-right: 0.5rem; }
 
-.current-post { padding-left: 10px; margin: 0; line-height: 1.2em; border-bottom: 2px solid grey; border: 1px solid black; border-radius: 5px 5px; background-color: #ddd6d6; }
+.current-post { padding-left: 10px; line-height: 1.2em; border-bottom: 2px solid grey; border: 1px solid black; border-radius: 5px 5px; background-color: #ddd6d6; margin: 15px 0; }
 
 .previous-posts { background: black; grid-column: 2 / 3; padding: 0; margin: 0; }
 
@@ -73,18 +75,18 @@ ul { padding: 0 10px; list-style: none; margin: 10px; }
 
 .btop { font-family: "Fenix", serif; font-size: 1.2rem; }
 
-a:link { color: #915609; }
+a:link { color: #352a1b; }
 
-a:hover { color: #0f1b61; text-decoration: underline; }
+a:hover { color: #494e6d; text-decoration: underline; }
 
-.button { background-color: #4caf50; border: 2px solid black; color: white; border-radius: 12px; padding: 5px 12px; text-align: center; text-decoration: none; display: inline-block; font-size: 12px; text-transform: capitalize; font-family: "Oswald", sans-serif; }
+.button { background-color: #8d8665; border: 2px solid black; color: white; border-radius: 12px; padding: 5px 12px; text-align: center; text-decoration: none; display: inline-block; font-size: 12px; text-transform: capitalize; font-family: "Oswald", sans-serif; }
 
 .tagged { background-color: #ddd6d6; border: 1px solid black; color: black; border-radius: 3px; padding: 5px 8px; text-align: center; font-weight: bold; display: inline-block; font-size: 14px; text-transform: capitalize; font-family: "Fenix", serif; }
 
 .button:hover { background-color: white; color: black; border: 2px solid #023003; }
 
 /*Floating Back-To-Top Button*/
-.myBtn { bottom: 10px; text-align: center; padding: 3px 8px; max-width: 30px; width: 100%; font-size: 12px; font-weight: bold; text-transform: capitalize; text-decoration: none; border: 2px solid black; background-color: #4CAF50; border-radius: 8px; }
+.myBtn { bottom: 10px; text-align: center; padding: 3px 8px; max-width: 30px; width: 100%; font-size: 12px; font-weight: bold; text-transform: capitalize; text-decoration: none; border: 2px solid black; background-color: #8d8665; border-radius: 8px; }
 
 /*On Hover Color Change*/
 .myBtn:hover { background-color: white; color: black; border: 2px solid #023003; }
@@ -101,7 +103,7 @@ p { grid-column: 2 / 3; margin: 2px; line-height: 1.3em; padding-bottom: 8px; }
 
 img { width: 100%; height: auto; align-self: center; padding: 0; margin: 0; border: 2px solid black; }
 
-.top_img { align-self: left; margin: 0; padding: 0; height: auto; width: 300px; border: 0; }
+.top_img { align-self: left; margin: 0; padding: 0; height: 300; width: auto; border: 0; }
 
 blockquote { font-style: italic; }
 
