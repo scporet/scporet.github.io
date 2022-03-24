@@ -80,12 +80,12 @@ input {
 .card-container {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  grid-gap: 10px;
-  padding: 10px;
+  grid-gap: 15px;
+  padding: 5px;
   margin-bottom: 15px;
   line-height: 1.4em;
   border: 1px solid black;
-  border-radius: 5px 5px;
+  border-radius: 8px 8px;
   background-color: #ddd6d6;
 }
 
@@ -189,7 +189,7 @@ aside {
 }
 
 .current-post {
-  padding-left: 10px;
+  padding-left: 5px;
   line-height: 1.2em;
   border-bottom:2px solid grey;
   border: 1px solid black;
@@ -222,7 +222,7 @@ footer {
   font-family: Source Sans Pro;
   font-size: .8em;
   border-top: 2px solid black;
-  padding: 0 0 15px 0;
+  padding: 0 0 10px 0;
  }
 
 footer a {
@@ -383,8 +383,8 @@ img {
   align-self: left;
   margin: 0;
   padding: 0;
-  height: 300;
-  width: auto;
+  height: auto;
+  width: 300px;
   border: 0;
 }
 
@@ -392,7 +392,7 @@ blockquote {
   font-style: italic;
 }
 
-@media (max-width: 784px) {
+@media (max-width: 764px) {
 
     .nav {
     width: 20%;
@@ -425,7 +425,7 @@ blockquote {
     }
 
 body {
-  width: 100%;
+  width: 100vw;
   border-radius: 0;
 }
 
