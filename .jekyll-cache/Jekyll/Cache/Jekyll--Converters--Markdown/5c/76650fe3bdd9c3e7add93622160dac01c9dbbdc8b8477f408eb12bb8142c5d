@@ -1,0 +1,48 @@
+I"<<h1>Site Tags</h1>
+
+<p>This page lists all categories tagged to blog posts.  As noted, some blog posts may satisfy more than one category and will be listed here multiple times. </p>
+
+<section>
+<div class="card">
+
+  <span class="b-title">International</span>
+  <ul>
+    
+      <li>
+      <a href="/2021/11/09/Best-Kept-Secret-in-Florence.html">Best Kept Secret in Florence</a>
+      </li>
+    
+  </ul>
+
+  <span class="b-title">Historical</span>
+  <ul>
+    
+      <li>
+      <a href="/2021/11/25/Deep-into-the-Caverns.html">Deep into the Caverns</a>
+      </li>
+    
+      <li>
+      <a href="/2021/11/10/The-Most-Important-Revolutionary-Battleground.html">Visit To Saratoga Battlefield</a>
+      </li>
+    
+  </ul>
+
+  <span class="b-title">Train</span>
+  <ul>
+    
+      <li>
+      <a href="/2021/11/27/Inaugural-Autumn-Express.html">Autumn Express and other Train Stories</a>
+      </li>
+    
+      <li>
+      <a href="/2021/11/16/Weekend-in-Gettysburg.html">Weekend Getaway to Gettysburg</a>
+      </li>
+    
+  </ul>
+
+</div>
+
+<p><a class="myBtn" href="#top">TOP</a></p>
+
+</section>
+:ET
