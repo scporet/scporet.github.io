@@ -1,59 +1,5 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Visit To Saratoga Battlefield | Almost Nomads</title>
-        <link rel="stylesheet" href="/assets/css/styles.css">
-        <script src="/assets/js/show.js"></script>
-    </head>
-<body>
-
-<div class="container">
-
-  <nav>
-    
-
-
-      <div id="sidebar">
-            <div class="toggle-btn" onclick="show()">
-                <span></span>
-                <span></span>
-                <span></span>
-            </div>
-    
-        <ul>
-            <li><a href="/">Latest Posts</a></li>
-            <li> <a href="/archives.html">Older Posts</a></li>
-            <li><a href="/about.html">About</a></li>
-            <li><a href="/tags.html">Tags</a></li>
-        </ul>
-        </div>
-  </nav>
-
-  <header class="title-area">
-    <img class="top_img" src="/assets/images/logo.png">
-    <p class="title">Travel stories and experiences over the years....</p>
-  </header>
-    
-  <main>
-    <html>
-  <body>
-
-  
-   <h1>Visit To Saratoga Battlefield</h1>
-
-   <h3 class="sub-title">The Pivotal Battle of the Revolution</h3>
-
-    <ul class="tagged">
-      <li>10 Nov 2021 | Tags: 
-       <a href="/tags/historical/">historical</a>
-       
-      </li>
-    </ul>
-  
-   <div>
-
-         <p>During my time working in upstate New York I had the unique opportunity to visit the <a href="https://www.nps.gov/sara/index.htm" target="_blank">Saratoga National Park</a>.  Not only do I enjoy history (The <a href="https://history.com" target="_blank">History Channel</a> is on my cable favorites list!), I have read plenty books on the American Revolution, and usually tune into any Revolutionary War-era program on TV.  I have to say, this trip was not a disappointment, and remains top of the list of sites I would like to return with grandkids in-tow.</p>
+I"Ó
+<p>During my time working in upstate New York I had the unique opportunity to visit the <a href="https://www.nps.gov/sara/index.htm" target="_blank">Saratoga National Park</a>.  Not only do I enjoy history (The <a href="https://history.com" target="_blank">History Channel</a> is on my cable favorites list!), I have read plenty books on the American Revolution, and usually tune into any Revolutionary War-era program on TV.  I have to say, this trip was not a disappointment, and remains top of the list of sites I would like to return with grandkids in-tow.</p>
 
 <h3>Battleground Walking Tour</h3>
 
@@ -86,21 +32,4 @@ In late September, British Army General Clinton was moving his army north to sup
 
 <p><a class="myBtn" href="#top">TOP</a></p>
 <p><br /></p>
-
-
-   </div>         
-               
-
-  </body>
-  </html>
-
-
-  </main>
-
-<footer class="footer">
-      <p>Thank you for visiting!</a></p>
-</footer>
-</div>
-
-</body>
-</html>
+:ET

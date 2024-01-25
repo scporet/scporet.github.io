@@ -2,7 +2,7 @@
 layout: post
 title: Deep into the Caverns
 description: This was a great Appalachian undergound getaway!
-tags: [historical]
+tags: [weekenders]
 ---
 
 <p>In my travels up and down the Interstate routes over the years, I must of passed cavern row on I81 a dozen times driving from the Florida Gulf Coast to the Northeast to visit family.  I always remembered passing the sign for <a href="https://luraycaverns.com/" target="_blank">Luray Caverns</a>.  In my haste of praying to the church of blessed acceleration (love that Blues Brothers pun!), we never seem to find the time to make a stop there.  It wasn't until a few years later, living in the Chesapeake area, when we lived close enough to plan a long weekend journey.  </p>

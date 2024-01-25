@@ -4,13 +4,13 @@ layout: default
 
 <html>
 <body>
-
+<div><h1>Latest Post</h1></div>
 <div class="current-post">
 
     {% for post in site.posts limit: 1 %}
    <ul>
        <li> 
-        <h2>Latest Post</h2>
+        
         <h1>{{ post.title}}</h1>
         <span class="postDate">({{ post.date | date: "%b %-d, %Y" }})</span>
         <span class="post_expt"> {{ post.content | lstrip | truncatewords: 50 }} </span>
@@ -26,8 +26,10 @@ layout: default
     <h1></h1>
 </div>
 
+<div><h1>Previous Posts</h1></div>
+
 <section class="card-container">
-    <div><h2>Previous Posts</h2></div>
+    
         
     <div class="split-right">
         {% for post in site.posts limit:1 offset:1 %}

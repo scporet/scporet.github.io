@@ -14,7 +14,7 @@ html {
 body {
   font-family: "Fenix", sans-serif;
   background-color: rgb(221, 213, 178);
-  width: 85vw;
+  width: 80vw;
   height: 100%;
   margin: 0 auto;
   padding: 0;
@@ -78,10 +78,10 @@ input {
 }
 
 .card-container {
-  display: grid;
+  display: flex;
   grid-template-columns: 1fr 1fr 1fr;
   grid-gap: 15px;
-  padding: 5px;
+  padding: 10px;
   margin-bottom: 15px;
   line-height: 1.4em;
   border: 1px solid black;
@@ -218,9 +218,9 @@ footer {
   grid-area: footer;
   text-align: center;
   margin: 0;
-  color: rgb(14, 61, 190);
-  font-family: Source Sans Pro;
-  font-size: .8em;
+  color: #000;
+  font-family: $ff-med;
+  font-size: 1em;
   border-top: 2px solid black;
   padding: 0 0 10px 0;
  }
